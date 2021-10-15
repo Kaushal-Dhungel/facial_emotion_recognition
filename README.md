@@ -4,7 +4,7 @@ This is a program to recognise the facial_emotions.
 The model is trained using the `fer2013` dataset and was trained for 8 hours on Google
 Colab (it took a lot of time). As the training process was really slow, the model was trained only for 30 epochs, with the accuracy of nearly 65%.
 
-![alt text](https://www.google.com/urlsa=i&url=https%3A%2F%2Fwww.kaggle.com%2Fmsambare%2Ffer2013&psig=AOvVaw0pX3d2s_WZ9nN_jTla_6n8&ust=1634358796723000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIi_vpLLy_MCFQAAAAAdAAAAABAD)
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeCqJo2ffrnBWaDDCvhQBbDh8PZBfI_gvPNA&usqp=CAU)
 
 # Description
 - `facial_recognition.h5` is the final trained model. 
